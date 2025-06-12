@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Freelancing(open-source project)**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Python & Django**
 
 - 💬 Ask me about **MERN Stack**
 
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sanskarchaurey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanskarchaurey" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanskarchaurey-36b384146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanskarchaurey" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanskarchaurey2025/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanskarchaurey" height="30" width="40" /></a>
 <a href="https://instagram.com/sanskar_chaurey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanskar_chaurey" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@sanskarchaurey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sanskarchaurey" height="30" width="40" /></a>
 </p>
